@@ -46,7 +46,8 @@ Step 7.:- After generating the gcode format then follow the these instruction as
 -  	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/Vanitha-SM/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119557985/45ceb45d-5da1-4fca-a60b-35a89fc7c141)
+![image](https://github.com/Vanitha-SM/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119557985/4679f641-12f1-44dd-a891-30a51c3b70db)
+
 
 ```
 Name:Vanitha S
